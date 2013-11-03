@@ -28,26 +28,26 @@
     <repository>
       <id>repobo-rel</id>
       <name>repo.bukkit.org Releases</name>
-      <url>http://repo.bukkit.org/content/repositories/releases/</url>
+      <url>http://ci.dj-tcraft.nl/plugin/repository/project/BukkitAPI/LastSuccessful/repository/</url>
     </repository>
     <snapshotRepository>
       <id>repobo-snap</id>
       <name>repo.bukkit.org Snapshots</name>
-      <url>http://repo.bukkit.org/content/repositories/snapshots/</url>
+      <url>http://ci.dj-tcraft.nl/plugin/repository/project/BukkitAPI/LastSuccessful/repository/</url>
     </snapshotRepository>
   </distributionManagement>
 
   <repositories>
     <repository>
       <id>repobo-snap</id>
-      <url>http://repo.bukkit.org/content/groups/public</url>
+      <url>http://ci.dj-tcraft.nl/plugin/repository/project/BukkitAPI/LastSuccessful/repository/</url>
     </repository>
   </repositories>
 
   <pluginRepositories>
     <pluginRepository>
       <id>bukkit-plugins</id>
-      <url>http://repo.bukkit.org/content/groups/public</url>
+      <url>http://ci.dj-tcraft.nl/plugin/repository/project/BukkitAPI/LastSuccessful/repository/</url>
     </pluginRepository>
   </pluginRepositories>
 
